@@ -1,0 +1,40 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"username": "mhmdmsvi",
+			"email": "mmd@gmail.com",
+			"password": "1234",
+			"tasks": [
+				{
+					"name": "Practice English Language",
+					"flag": "not important",
+					"is_done": false
+				},
+				{
+					"name": "University Final Project",
+					"flag": "urgent",
+					"is_done": false
+				}
+			]
+		},
+		{
+			"id": 2,
+			"username": "alireza",
+			"email": "alrza@gmail.com",
+			"password": "1234",
+			"tasks": [
+				{
+					"name": "Work on the customer project",
+					"flag": "urgent",
+					"is_done": false
+				},
+				{
+					"name": "Sent an email to the professor",
+					"flag": "not urgent",
+					"is_done": false
+				}
+			]
+		}
+	]
+}
